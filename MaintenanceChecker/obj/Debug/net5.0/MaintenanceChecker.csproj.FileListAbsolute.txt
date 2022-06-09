@@ -1,0 +1,16 @@
+F:\CsharpProjects\MaintenanceChecker\MaintenanceChecker\bin\Debug\net5.0\MaintenanceChecker.exe
+F:\CsharpProjects\MaintenanceChecker\MaintenanceChecker\bin\Debug\net5.0\MaintenanceChecker.deps.json
+F:\CsharpProjects\MaintenanceChecker\MaintenanceChecker\bin\Debug\net5.0\MaintenanceChecker.runtimeconfig.json
+F:\CsharpProjects\MaintenanceChecker\MaintenanceChecker\bin\Debug\net5.0\MaintenanceChecker.runtimeconfig.dev.json
+F:\CsharpProjects\MaintenanceChecker\MaintenanceChecker\bin\Debug\net5.0\MaintenanceChecker.dll
+F:\CsharpProjects\MaintenanceChecker\MaintenanceChecker\bin\Debug\net5.0\ref\MaintenanceChecker.dll
+F:\CsharpProjects\MaintenanceChecker\MaintenanceChecker\bin\Debug\net5.0\MaintenanceChecker.pdb
+F:\CsharpProjects\MaintenanceChecker\MaintenanceChecker\obj\Debug\net5.0\MaintenanceChecker.csproj.AssemblyReference.cache
+F:\CsharpProjects\MaintenanceChecker\MaintenanceChecker\obj\Debug\net5.0\MaintenanceChecker.GeneratedMSBuildEditorConfig.editorconfig
+F:\CsharpProjects\MaintenanceChecker\MaintenanceChecker\obj\Debug\net5.0\MaintenanceChecker.AssemblyInfoInputs.cache
+F:\CsharpProjects\MaintenanceChecker\MaintenanceChecker\obj\Debug\net5.0\MaintenanceChecker.AssemblyInfo.cs
+F:\CsharpProjects\MaintenanceChecker\MaintenanceChecker\obj\Debug\net5.0\MaintenanceChecker.csproj.CoreCompileInputs.cache
+F:\CsharpProjects\MaintenanceChecker\MaintenanceChecker\obj\Debug\net5.0\MaintenanceChecker.dll
+F:\CsharpProjects\MaintenanceChecker\MaintenanceChecker\obj\Debug\net5.0\ref\MaintenanceChecker.dll
+F:\CsharpProjects\MaintenanceChecker\MaintenanceChecker\obj\Debug\net5.0\MaintenanceChecker.pdb
+F:\CsharpProjects\MaintenanceChecker\MaintenanceChecker\obj\Debug\net5.0\MaintenanceChecker.genruntimeconfig.cache
